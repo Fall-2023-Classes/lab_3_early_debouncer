@@ -1,5 +1,6 @@
 # Lab_3_Early_Debouncer
 Since mechanical inputs are not perfect, bouncing of the input signal can occur. This unstable input can create issues if not accounted for, thus, a debouncer can be implemented to deal with bouncing inputs. In this lab, we develop an early debouncer circuit to ensure the stability of our inputs for at least 20ms.
+
 [Lab 3 Files]()
 
 ## Early Debouncer
